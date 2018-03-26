@@ -1,0 +1,13 @@
+Labrador,Lexi,3,https://www.lovethatpet.com/wp-content/uploads/2014/11/Labrador-Retriever-Puppy.jpg
+Beagle,Baka,5,https://0.soompi.io/wp-content/uploads/2016/08/24193651/baekhyun-beagle.jpg
+Basset,Chan,2,https://bassetthounds.files.wordpress.com/2011/03/basset-hound1.jpg
+Labrador,Yuri,4,http://wallpapercave.com/wp/Eomxorw.jpg
+Labrador,Victor,7,http://www.myawesomelabs.com/images/DSC_6583.jpg
+Bichon,Axi,3,http://www.paradisetipitou.com/uploads/DSC_4473_thumb.JPG
+Husky,Hongbin,4,https://www.pets4homes.co.uk/images/breeds/43/large/00e9384bc955aee76d2f768af941815b.jpg
+Pomeranian,Jisung,1,https://i.ytimg.com/vi/YkRLKHcsaHY/hqdefault.jpg
+Bichon,Choa,7,https://i.ytimg.com/vi/QrL6-pJGbUk/hqdefault.jpg
+Bichon,Jiyeon,6,http://www.itsdogbreeds.info/images/bichon-frise-4.jpg
+Labrador,N,9,http://www.thelabradorsite.com/wp-content/uploads/2015/07/buying-a-chocolate-labrador-puppy.jpg
+Beagle,Heechul,15,http://animalsadda.com/wp-content/uploads/2013/12/Beagle-5.jpg
+Pomeranian,Hongki,14,https://pbs.twimg.com/media/C6Uh_HUWcAQJRsA.jpg
